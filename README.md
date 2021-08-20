@@ -1,4 +1,4 @@
-# Pool shares token 
+# Pool shares token (ARCHIVED)
 
 Pool shares token template used by btn.group built on the Secret network blockchain.
 
